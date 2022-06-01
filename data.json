@@ -1,0 +1,243 @@
+[
+    {
+        "id":1,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":2,
+        "Employee_Name":" akshay ",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":3,
+        "Employee_Name":" sahil",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":4,
+        "Employee_Name":" rahul",
+        "Employee_id":"8976876",
+        "Status":"break",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":5,
+        "Employee_Name":"aman",
+        "Employee_id":"8976876",
+        "Status":"Leave",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+    {
+        "id":6,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":7,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":8,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":9,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"break",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":10,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"Leave",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+    {
+        "id":11,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":12,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+    ,
+
+    {
+        "id":13,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"on call",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":14,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"break",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+    ,
+
+    {
+        "id":15,
+        "Employee_Name":" William JackobSon",
+        "Employee_id":"8976876",
+        "Status":"Leave",
+        "Total_Calls":"150",
+        "Dropped_Calls":"15",
+        "FCR":"52",
+        "AHT":"03:20:22",
+        "Escalations":"4",
+        "Long_Calls":"15",
+        "Long_Holds":"30"
+    }
+
+
+
+    
+
+
+
+
+
+
+
+  
+    
+]
